@@ -1,14 +1,21 @@
 # ETL-Project
 Study Extract Transform and Load data into database
 
+Norman
+Panarat
+??
+
 Norman : 
 Please find these files in Resources and let me know what do you think?  If you have more ideas I'm happy to see too.
 
 1) Accidental_Drug_Related_Deaths_2012-2018
-2) Allegheny_County_Property_Sale_Transactions
+2) Allegheny_County_Property_Sale_Transactions (Since I used to live there for 2 years)
 3) Countries_info (A dataset of 160 countries with ~40 characteristics such as debt, electricity consumption, Internet users, etc.)
 4) Malaria_deaths_report (We can use to compare with COVID-19 and a few diseases)
 5) World_Poverty_Index (We can find education index and corruption index to compare if there is a link)
+
+Below I copied from Rice repo so we can have ref when we work on it.
+
 ----------- Project Info -------------------
 Project Proposal
 Before you start writing any code, remember that you only have one week to complete this project. View this project as a typical assignment from work. Imagine a bunch of data came in and you and your team are tasked with migrating it to a production data base.
@@ -58,3 +65,19 @@ Load: the final database, tables/collections, and why this was chosen.
 
 
 Please upload the report to Github and submit a link to Bootcampspot.
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+### This will be for our readme for our repo
+## Project Purposes
+1) Learn how to search for data.  The sources of these data came from :-
+  1.1
+  1.2
+
+
+2) Learn to transform the data in to different type of data for specific usage. The type of transformation needed for this data (cleaning, joining, filtering, aggregating, etc).
+
+
+3) Learn to load the data into database.  The type of final production database to load the data into (relational or non-relational).
+
+
+4) The final tables or collections that will be used in the production database are showed below:-
