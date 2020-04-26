@@ -11,17 +11,16 @@ Report : ETL_Project.pptx
 
 Project Purposes : -
 
-1) Learn to choose the topics from varieties of resrouces in internet.
-2) Utilize tools since we had been studied to clean up data.  
-    These programs had been used for this project:-
-    2.1) Jupyter Notebook to extracted, transposed and loaded data into database
-    2.2) Postgres Relational Database to store database.  Relational Database was used to because it will fit with furthur usage if we want to add more tables for analyzing.
-    2.3) 
+1) Learn to choose topics from a variety of online resources.
+2) Utilize tools as we have been studying to clean up data.  
+    The following programs have been used for this project:-
+    2.1) Jupyter Notebook: to extract, transpose, and load data into the database
+    2.2) Postgres Relational Database: to store data collected from the above resource. Relational Database was used to because it will accomodate furthur use if more tables are needed.
 
-Project Process :-
+Project Process:
 1) Discussed and selected interested dataset.
-2) Initialize project in GitHub for easily working within the team.
-3) Discussed and assigned works to team members.
-4) Met up to summarize the works.
+2) Initialize project in GitHub for easy acess within the team.
+3) Discussed and assigned work to team members.
+4) Met up to summarize the work.
 5) Generate the reports.
 
