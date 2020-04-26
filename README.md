@@ -1,83 +1,27 @@
-# ETL-Project
-Study Extract Transform and Load data into database
+# Extract Transform and Load (ETL) Project
 
-Norman
-Panarat
-??
+Team Member
+- Norman Gwinn
+- Panarat Duke
+- Sarah Sutar
 
-Norman : 
-Please find these files in Resources and let me know what do you think?  If you have more ideas I'm happy to see too.
+Study the process of Extract Transform and Load data into database
 
-1) Accidental_Drug_Related_Deaths_2012-2018
-2) Allegheny_County_Property_Sale_Transactions (Since I used to live there for 2 years)
-3) Countries_info (A dataset of 160 countries with ~40 characteristics such as debt, electricity consumption, Internet users, etc.)
-4) Malaria_deaths_report (We can use to compare with COVID-19 and a few diseases)
-5) World_Poverty_Index (We can find education index and corruption index to compare if there is a link)
+Report : ETL_Project.pptx
 
-Below I copied from Rice repo so we can have ref when we work on it.
+Project Purposes : -
 
------------ Project Info -------------------
-Project Proposal
-Before you start writing any code, remember that you only have one week to complete this project. View this project as a typical assignment from work. Imagine a bunch of data came in and you and your team are tasked with migrating it to a production data base.
-Take advantage of your Instructor and TA support during office hours and class project work time. They are a valuable resource and can help you stay on track.
+1) Learn to choose the topics from varieties of resrouces in internet.
+2) Utilize tools since we had been studied to clean up data.  
+    These programs had been used for this project:-
+    2.1) Jupyter Notebook to extracted, transposed and loaded data into database
+    2.2) Postgres Relational Database to store database.  Relational Database was used to because it will fit with furthur usage if we want to add more tables for analyzing.
+    2.3) 
 
-Finding Data
-Your project must use 2 or more sources of data. We recommend the following sites to use as sources of data:
+Project Process :-
+1) Discussed and selected interested dataset.
+2) Initialize project in GitHub for easily working within the team.
+3) Discussed and assigned works to team members.
+4) Met up to summarize the works.
+5) Generate the reports.
 
-
-data.world
-
-
-Kaggle
-
-
-You can also use APIs or data scraped from the web. However, get approval from your instructor first. Again, there is only a week to complete this!
-
-Data Cleanup & Analysis
-Once you have identified your datasets, perform ETL on the data. Make sure to plan and document the following:
-
-
-The sources of data that you will extract from.
-
-
-The type of transformation needed for this data (cleaning, joining, filtering, aggregating, etc).
-
-
-The type of final production database to load the data into (relational or non-relational).
-
-
-The final tables or collections that will be used in the production database.
-
-
-You will be required to submit a final technical report with the above information and steps required to reproduce your ETL process.
-
-Project Report
-At the end of the week, your team will submit a Final Report that describes the following:
-
-
-Extract: your original data sources and how the data was formatted (CSV, JSON, pgAdmin 4, etc).
-
-
-Transform: what data cleaning or transformation was required.
-
-
-Load: the final database, tables/collections, and why this was chosen.
-
-
-Please upload the report to Github and submit a link to Bootcampspot.
------------------------------------------------------------------------------
------------------------------------------------------------------------------
-### This will be for our readme for our repo
-## Project Purposes
-1) Learn how to search for data.  The sources of these data came from :-
-  1.1
-  1.2
-
-
-2) Learn to transform the data in to different type of data for specific usage. The type of transformation needed for this data (cleaning, joining, filtering, aggregating, etc).
-
-
-3) Learn to load the data into database.  The type of final production database to load the data into (relational or non-relational).
-
-
-4) The final tables or collections that will be used in the production database are showed below:-
