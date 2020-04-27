@@ -1,5 +1,5 @@
-Alt-h2 Extract Transform and Load (ETL) Project
------------------------------------------------
+Extract Transform and Load (ETL) Project
+----------------------------------------
 
 Team Member
 - Norman Gwinn
@@ -15,8 +15,8 @@ Project Purposes : -
 1) Learn to choose topics from a variety of online resources.
 2) Utilize tools as we have been studying to clean up data.  
     The following programs have been used for this project:-
- ..2.1) Jupyter Notebook: to extract, transpose, and load data into the database
- ..2.2) Postgres Relational Database: to store data collected from the above resource. Relational Database was used to because it will accomodate furthur use if more tables are needed.
+..2.1) Jupyter Notebook: to extract, transpose, and load data into the database
+..2.2) Postgres Relational Database: to store data collected from the above resource. Relational Database was used to because it will accomodate furthur use if more tables are needed.
 
 Project Process:
 1) Discussed and selected interested dataset.
